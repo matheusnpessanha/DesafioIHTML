@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Marcos Antônio da Silva </title>
+    <link rel="stylesheet" href="style.css">
+</head> 
+<body>
+    <header>
+        <img src="MARCOS ANTONIO.jpg" alt="Foto de marcos antonio" class="Photo" width = 300px>
+        <h1 id="title"> Marcos Antônio da Silva </h1>
+    </header>
+    
+    <section>
+        <header>
+            <h2 class="subtitle"> Sobre mim </h2> 
+        </header>
+        <article class="Post">
+            <header>
+                <h3 class="post_title"> 
+                    
+                </h3>
+                <img src="Escritório.jpg" alt="Ilustração do Escritório" class="Post_image" width="400px">
+            </header>
+            <p class="post_content"> 
+                Advogado especializado em fornecer consultoria jurídica estratégica e representação legal excepcional. 
+                Comprometido com a excelência no atendimento ao cliente e na busca por soluções jurídicas inovadoras. 
+                Bacharel em Direito pela <a href="https://portal.unicap.br/" target="_blank"> Universidade Católica </a>, 
+                com ênfase em direito cível, concluído em 2014. 
+            
+            </p>
+            <ul> <strong> Competências técnicas: </strong>
+                    <li> 
+                        Domínio das áreas cível, penal, trabalhista.
+                    </li>
+
+                    <li> Excelente capacidade de pesquisa jurídica. </li>
+                    <li> Fluência em Inglês </li>
+                    <li> Habilidades avançadas em negociação e resolução de conflitos. </li>
+            </ul>
+
+            <ul> <strong> Perfil Pessoal: </strong></ul>
+            <p>
+                Advogado dedicado, proativo e orientado para resultados, comprometido em fornecer soluções legais eficazes e 
+                atendimento personalizado aos clientes. Fortes habilidades de comunicação e resolução de problemas, aliadas a 
+                uma postura ética e profissional.
+
+            </p>
+
+            
+        </article>
+       
+    </section>
+    <footer> 
+        <ul class="contact_list">
+            <li> 
+                <a href="mailto:marcosantonio.adv@gmail.com" target="_blank"> E-mail </a> 
+            </li>
+           
+            <li>
+                <a href="https://www.instagram.com/marcosantonio/" target="_blank"> Instagram </a>
+            </li>
+
+            <li> 
+                <a href="https://www.linkedin.com/in/marcosantonio/" target="_blank"> LinkedIn </a>
+            </li>
+        </ul>
+    </footer>
+    
+    
+</body>
+</html>
